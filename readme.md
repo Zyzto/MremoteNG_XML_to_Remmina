@@ -1,10 +1,12 @@
+# This repo uses script from [haseebT](https://github.com/haseebT) to decrpyt the passwords from xml file
+
 # Convert Mremote xml to Remmina files
 
 This script is working on **RDP SSH** files only and will ignore any other type
 
 ## Usage
 Clone localy\
-`git clone http://git/ziad.alshanbari/mremote_to_remmina.git`
+`git clone https://github.com/Zyzto/Mremoteng_ConvertTO_Remmina.git`
 
 Change Directory \
 `cd mremote_to_remmina`
