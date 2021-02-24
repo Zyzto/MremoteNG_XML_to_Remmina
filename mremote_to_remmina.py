@@ -172,8 +172,8 @@ def create_connection(item, parents):
                 conf["ssh_username"] = item.attrib["Username"]
                 conf["ssh_password"] = out
             elif conf["protocol"] == "RDP":
-                if item.attrib["Username"] == "mohammed.alghashim":
-                    # Change any RDP Password that is have mohammed username
+                if item.attrib["Username"] == "ldapname if you want":
+                    # Change any RDP Password that is have ldap username
                     #? Change this if You want other wise keep same
                     conf["username"] = ""
                     conf["password"] = encryptRemminaPass(password_value, " ")
