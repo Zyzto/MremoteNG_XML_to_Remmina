@@ -9,7 +9,7 @@ Clone localy\
 `git clone https://github.com/Zyzto/Mremoteng_ConvertTO_Remmina.git`
 
 Change Directory \
-`cd mremote_to_remmina`
+`cd MremoteNG_XML_to_Remmina`
 
 Pip Install\
 `pip install -r requirements.txt `
